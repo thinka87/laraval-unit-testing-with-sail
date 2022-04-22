@@ -57,5 +57,5 @@ Or if you prefer to run one specific test
 sail artisan test --testsuite=Feature --filter RouteTest::test_home_screen_shows_welcome
 ```
 
-Good luck!
+
 
